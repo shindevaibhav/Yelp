@@ -1,0 +1,12 @@
+*.pyc
+*vocab
+*.cPickle
+train/*
+*.sh
+*.out
+*.bin
+*.npy
+*.json
+.idea/*
+backup/*
+labeled_yelp_data_complete.csv
