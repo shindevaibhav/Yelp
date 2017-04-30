@@ -13,3 +13,10 @@ Usage
 
 	python train.py
 
+Python packages Required
+	1. simplejson
+	2. tensorflow
+	3. pandas
+	4. cPickle
+	5. numpy
+	6. collections
